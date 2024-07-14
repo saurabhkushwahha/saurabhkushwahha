@@ -25,10 +25,10 @@
 
 ## Connect me:
 <p align="left">
-<a href="https://linkedin.com/in/saurabhkushwahhaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabhkushwahhaa" height="30" width="40" /></a>
-<a href="https://twitter.com/_sauraabh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_sauraabh_" height="30" width="40" /></a>
-<a href="https://instagram.com/_sauraabh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sauraabh_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/saurabhkushwahhaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_sauraabh_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saurabhkushwahhaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabhkushwahhaa" height="22" width="32" /></a>
+<a href="https://twitter.com/_sauraabh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_sauraabh_" height="22" width="32" /></a>
+<a href="https://instagram.com/_sauraabh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sauraabh_" height="22" width="32" /></a>
+<a href="https://www.leetcode.com/saurabhkushwahhaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_sauraabh_" height="22" width=32" /></a>
 </p>
 
 
