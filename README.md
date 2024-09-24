@@ -1,7 +1,8 @@
 <!---# &nbsp; Hi👋, I'm [Saurabh!](https://github.com/saurabhkushwahha/)  -->
 <!--- <h1 align="center">Hi, I'm Saurabh<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>  --->
 
-<img align="right" alt="" class="bg lm ms c" width="400" height="300"  loading="eager" role="presentation" src="https://miro.medium.com/v2/resize:fit:630/1*gReLR6hZjwyBxHmfLN1AVw.gif">
+<img align="right" alt="" class="bg lm ms c" width="400" height="300"  loading="eager" role="presentation" src="https://miro.medium.com/v2/resize:fit:630/1*gReLR6hZjwyBxHmfLN1AVw.gif"><br>
+<br>
 
 
   🛠 &nbsp; I’m currently pursuing **Master of Computer Application**.
