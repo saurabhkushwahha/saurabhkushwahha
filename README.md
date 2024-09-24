@@ -13,7 +13,7 @@
  <br>
  📫 &nbsp; Reach me out: saurabhkushwahhaa@gmail.com.
  <br>
- 👨‍💻 &nbsp; All of my projects are available at [Link](link)
+ 👨‍💻 &nbsp; All of my projects are available at [Portfolio](link)
  <br>
  📄 &nbsp; Know about my experiences [Resume](resume)
 
