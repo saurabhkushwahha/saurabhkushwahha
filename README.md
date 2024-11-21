@@ -13,7 +13,7 @@
  <br>
  👨‍💻 &nbsp; All of my projects are available at [Portfolio](link)
  <br>
- 📄 &nbsp; Know about my experiences [Resume](https://drive.google.com/file/d/1dr1_53R8KmV9yknHrDEnK1bxrQIcakGM/view?usp=sharing)
+ 📄 &nbsp; Know about my experiences [Resume](https://drive.google.com/file/d/1-nZQmH_CYYrh4ZD7VKAgG6yN2N5DVfZo/view?usp=sharing)
 
 <br>
 <br>
