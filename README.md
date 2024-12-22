@@ -5,7 +5,7 @@
 
   🛠 &nbsp; I’m currently pursuing **Master of Computer Application**.
  <br>
- 🚀 &nbsp; I’m currently learning **React.js**
+ 🚀 &nbsp; I’m currently learning **FULL STACK** MERN
  <br>
  👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
  <br>
