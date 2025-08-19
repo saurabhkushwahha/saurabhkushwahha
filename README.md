@@ -11,9 +11,9 @@
  <br>
  📫 &nbsp; Reach me out: saurabhkushwahhaa@gmail.com.
  <br>
- 👨‍💻 &nbsp; All of my projects are available at [Portfolio](link)
+ 👨‍💻 &nbsp; All of my projects are available at [Portfolio](https://saurabhkushwahha.github.io/Portfolio/)
  <br>
- 📄 &nbsp; Know about my experiences [Resume](https://drive.google.com/file/d/1-nZQmH_CYYrh4ZD7VKAgG6yN2N5DVfZo/view?usp=sharing)
+ 📄 &nbsp; Know about my experiences [Resume](https://drive.google.com/drive/folders/1f6ttgxsEZWQ_6nSWzTShn1noYHHJgpGF)
 
 <br>
 <br>
