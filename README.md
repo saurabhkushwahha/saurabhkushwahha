@@ -13,7 +13,7 @@
  <br>
  👨‍💻 &nbsp; All of my projects are available at [Portfolio](https://saurabhkushwahha.github.io/Portfolio/)
  <br>
- 📄 &nbsp; Know about my experiences [Resume](https://drive.google.com/drive/folders/1f6ttgxsEZWQ_6nSWzTShn1noYHHJgpGF)
+ 📄 &nbsp; Know about my experiences [Resume](https://drive.google.com/file/d/1-xneCiP8dZ8qFXSMrFpyZczyGu5PsXMK/view?usp=sharing)
 
 <br>
 <br>
